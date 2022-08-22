@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nithi's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
