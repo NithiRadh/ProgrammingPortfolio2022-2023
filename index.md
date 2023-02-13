@@ -18,5 +18,13 @@ OOP space game including spaceship with shooting lasers and asteroids using proc
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/tree/gh-pages/src/SpaceGame)
 
+### CarTester
+
+OOP moving, fast paced cars that will blind your eyes!
+
+![CarTester](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/cartester.png?raw=true)
+
+[Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/tree/gh-pages/src/CarTester)
+
 ## Programming Semester 2 Projects:
 
