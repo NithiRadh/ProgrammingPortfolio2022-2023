@@ -12,7 +12,7 @@ Graphical calculator based on Rainbow Dash from MLP.
 
 ### SpaceGame
 
-Space game including spaceship with shooting lasers and asteroids using processing.
+Space game including spaceship with shooting lasers and asteroids.
 
 ![SpaceGame](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/spacegame.png?raw=true)
 
