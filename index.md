@@ -4,7 +4,7 @@
 
 ### Calculator
 
-OOP graphical calculator using processing.
+Graphical calculator based on Rainbow Dash from MLP.
 
 ![Calculator](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/calc.png?raw=true)
 
@@ -12,7 +12,7 @@ OOP graphical calculator using processing.
 
 ### SpaceGame
 
-OOP space game including spaceship with shooting lasers and asteroids using processing.
+Space game including spaceship with shooting lasers and asteroids using processing.
 
 ![SpaceGame](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/spacegame.png?raw=true)
 
@@ -20,7 +20,7 @@ OOP space game including spaceship with shooting lasers and asteroids using proc
 
 ### CarTester
 
-OOP moving, fast paced cars that will blind your eyes!
+Moving, fast paced cars that will blind your eyes!
 
 ![CarTester](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/cartester.png?raw=true)
 
