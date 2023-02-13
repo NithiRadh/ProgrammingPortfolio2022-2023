@@ -10,5 +10,13 @@ OOP graphical calculator using processing.
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/tree/gh-pages/src/Calculator)
 
+### SpaceGame
+
+OOP space game including spaceship with shooting lasers and asteroids using processing.
+
+![SpaceGame](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/spacegame.png?raw=true)
+
+[Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/tree/gh-pages/src/SpaceGame)
+
 ## Programming Semester 2 Projects:
 
