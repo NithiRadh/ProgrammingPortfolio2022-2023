@@ -26,5 +26,14 @@ Moving, fast paced cars that will blind your eyes!
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/tree/gh-pages/src/CarTester)
 
+### Working With Strings
+
+Code to translate words into pig latin
+
+![WorkingWStrings](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/PigLatin.png?raw=true)
+
+[Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/WorkingWStrings/PigLatin)
+
+
 ## Programming Semester 2 Projects:
 
