@@ -1,4 +1,6 @@
-# Welcome to Nithila Radhakrishnan's Programming Portfolio, contact info: nithikradhakrishnan@gmail.com
+# Welcome to Nithila Radhakrishnan's Programming Portfolio
+
+# Contact info: nithikradhakrishnan@gmail.com
 
 # Certifications earned:
 -CTE Semester 2, python
