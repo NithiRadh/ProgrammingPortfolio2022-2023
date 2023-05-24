@@ -55,6 +55,11 @@ User interactive timeline about the history of computer programming
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/Timeline.pde)
 
+### Grades
+
+User interactive conversion, converting GPA to letter grade
+![Grades](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/Grades.png?raw=true)
+
 ### Conversion App
 
 User interactive converting USD to Indian Rupees
