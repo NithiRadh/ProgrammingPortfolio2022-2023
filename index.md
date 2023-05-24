@@ -3,7 +3,7 @@
 # Contact info: nithikradhakrishnan@gmail.com
 
 # Certifications earned:
--CTE Semester 2, python
+-CTE Semester 2, 827-python
 
 ## Programming Full Year Projects:
 
