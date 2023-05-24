@@ -62,3 +62,13 @@ User interactive converting USD to Indian Rupees
 ![ConversionApp](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/Conversion%20App.png?raw=true)
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/Conversion_App.pde)
+
+### Rotating Arcs
+
+An application with different arcs that are rotating
+
+![Rotating Arcs][https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/RotatingArcs.png?raw=true]
+
+[Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/RotatingArcs.pde)
+
+
