@@ -1,4 +1,4 @@
-# Welcome to Nithi's Programming Portfolio
+# Welcome to Nithi's Programming Portfolio, contact info: nithikradhakrishnan@gmail.com
 
 ## Programming Semester 1 Projects:
 
