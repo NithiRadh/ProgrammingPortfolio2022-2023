@@ -5,7 +5,7 @@
 # Certifications earned:
 -CTE Semester 2, 827-python
 
-## Programming Full Year Projects:
+## Programming Semester 1 Projects:
 
 ### Calculator
 
@@ -31,13 +31,6 @@ Moving, fast paced cars that will blind your eyes!
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/tree/gh-pages/src/CarTester)
 
-### Working With Strings
-
-Code to translate words into pig latin
-
-![WorkingWStrings](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/PigLatin.png?raw=true)
-
-[Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/WorkingWStrings/PigLatin)
 
 ### Zoog
 
@@ -78,4 +71,13 @@ An application with different arcs that are rotating
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/RotatingArcs.pde)
 
+## Programming Semester 2 Projects:
+
+### Working With Strings
+
+Code to translate words into pig latin
+
+![WorkingWStrings](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/images/PigLatin.png?raw=true)
+
+[Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/WorkingWStrings/PigLatin)
 
