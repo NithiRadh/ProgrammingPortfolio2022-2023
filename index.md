@@ -3,7 +3,7 @@
 ## Certifications earned:
 -CTE Semester 2, python
 
-## Programming Semester 1 Projects:
+## Programming Full Year Projects:
 
 ### Calculator
 
@@ -37,5 +37,4 @@ Code to translate words into pig latin
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/WorkingWStrings/PigLatin)
 
-## Programming Semester 2 Projects:
 
