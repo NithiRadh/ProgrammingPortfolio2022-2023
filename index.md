@@ -41,5 +41,5 @@ Code to translate words into pig latin
 
 ### Zoog
 
-
+A user interactive character named Zoog, moving around when dragged with mouse
 
