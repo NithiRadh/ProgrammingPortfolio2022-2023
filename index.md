@@ -80,7 +80,7 @@ Code to translate words into pig latin
 
 [Source Code](https://github.com/NithiRadh/ProgrammingPortfolio2022-2023/blob/gh-pages/src/WorkingWStrings/PigLatin)
 
-### Kitty Run- Final Group Project
+### Kitty Run- Final Group Project (python)
 
 User interactive cat ninja, trying to dodge rocks for as long as possible
 
